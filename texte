@@ -124,6 +124,8 @@ d’un hôte à l’autre du réseau. Chaque partie d'information transmise se v
 les informations nécessaires afin d'arriver à destination. Parmi ces informations, on retrouve l’adresse IP 
 de l’instance destinatrice (l’hôte destinataire).
 
+![alt tag](https://cloud.githubusercontent.com/assets/18070504/14044364/f87c6f70-f28f-11e5-9256-bb2de690b006.png)
+
 Si chaque objet connecté à Internet se voit assigner une adresse IP, il est important de préciser que ce 
 n'est pas de l'adresse de la "machine" sur le réseau dont il s'agit, mais bien d'une adresse d'interface réseau. 
 Un objet peut se voir assigner plusieurs adresses IP, si celui-ci est connecté à différents réseaux, et dispose ainsi de
